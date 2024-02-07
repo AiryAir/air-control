@@ -9,7 +9,7 @@ Made by air!
 
 ## Pros
 - Doesnt need a lower level controller (no arduinos)
-- Skips serial communications with the (faster!)
+- Skips serial communications (simpler! faster ig?)
 - Cheapest hardware (Jetson isnt required, RPi will do!)
 - Easy hardware setup
 
